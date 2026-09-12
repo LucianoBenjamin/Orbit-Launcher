@@ -71,20 +71,21 @@ Orbit is not intended to bypass Minecraft authentication, ownership checks, subs
 
 ## Screenshots
 
-Add screenshots of Orbit Launcher inside the `assets/` folder and reference them here.
+### Home
 
-Suggested screenshots:
-
-- `assets/home.png`
-- `assets/accounts.png`
-- `assets/profiles.png`
-- `assets/mods.png`
-
-Example:
-
-```md
 ![Orbit Launcher Home](assets/home.png)
-```
+
+### Microsoft account integration
+
+![Orbit Launcher Accounts](assets/accounts.png)
+
+### Mods & Fabric integration
+
+![Orbit Launcher Mods](assets/mods.png)
+
+### Minecraft servers
+
+![Orbit Launcher Servers](assets/servers.png)
 
 ## Privacy
 
